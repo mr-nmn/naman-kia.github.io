@@ -250,7 +250,7 @@ footer a {
 }
 
 /* responsive */
-body {
+body, .container {
     overflow-x: hidden;
 }
 
